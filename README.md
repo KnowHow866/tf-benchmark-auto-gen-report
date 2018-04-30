@@ -1,6 +1,8 @@
 
 # tf-benchmark-auto-gen-report
 
+Please use tensorflow official tf_cnn_benchmarks, and add the project to the directory
+
 ```
 bash lab.sh resnet50 && bash lab.sh vgg16 && bash lab.sh alexnet&& bash lab.sh inception3
 cd app
